@@ -12,7 +12,7 @@ export default {
     },
     data:function(){
         return{
-            count: 100
+            count: 0
         };
     }
 }
