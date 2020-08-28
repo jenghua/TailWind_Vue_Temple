@@ -6,13 +6,11 @@
 
 <script>
 import './assets/css/main.css'
-import helloWorld from './components/HelloWorld.vue'
 import mycat from './components/MyCat.vue'
 
 export default {
   name: 'App',
   components: {
-    helloWorld,
     mycat
   }
 }
